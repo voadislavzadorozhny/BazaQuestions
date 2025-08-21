@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "npm build",
-    "dev": "npm run dev",
-    "lint": "npm lint",
-    "start": "npm start"
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "start": "next start"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
