@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8080";
+const API_BASE_URL = "https://bazaquestions-1.onrender.com";
 
 export interface ApiResponse<T> {
   success: boolean
